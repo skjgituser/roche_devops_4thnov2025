@@ -255,3 +255,14 @@ Terraform will perform the following actions:
 
   # aws_instance.example will be destroyed
 ```
+
+### terraform output 
+
+```
+terraform  output 
+my-ec2-publicIP = "54.252.240.38"
+my-ec2ID = "i-0892701e17948024f"
+[root@ip-172-31-5-155 ashu-roche-devops-code]# 
+
+
+```
